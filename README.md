@@ -8,7 +8,8 @@ Here you will find all the repositories for all of my hardware projects and what
 ### My Blog.
 This is the place where I post about my project with more details about the process, from project conception to troubleshooting, testing, programming
 and the assembly process.
-[Blog](https://luispa12.github.io)
+
+[https://luispa12.github.io](https://luispa12.github.io)
 
 
 ### How to reach me.
